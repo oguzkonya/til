@@ -14,3 +14,4 @@ A personal knowledge base. Not necessarily today, but these are the things I lea
 ### Git
 
 - [Create a Changelog From Git Commits](git/create-changelog-from-git-commits.md)
+- [Git Log Pretty Format](git/git-log-pretty-format.md)
