@@ -5,7 +5,8 @@ folders = os.listdir()
 categories = {
     "android": "Android",
     "csharp": "C#",
-    "git": "Git"
+    "git": "Git",
+    "maths": "Maths"
 }
 
 readme = "# TIL: Today I Learned\n\n"
