@@ -1,12 +1,14 @@
 import os
 
 folders = os.listdir()
+folders.sort()
 
 categories = {
     "android": "Android",
     "csharp": "C#",
     "git": "Git",
-    "maths": "Maths"
+    "maths": "Maths",
+    "netflix": "Netflix"
 }
 
 readme = "# TIL: Today I Learned\n\n"
@@ -19,12 +21,17 @@ for folder in folders:
         readme += "\n### %s\n\n" % categories[folder]
 
         for f in files:
-            path = "./%s/%s" % (folder, f)
+            if not f.startswith("."):
+                path = "./%s/%s" % (folder, f)
 
-            with open(path) as ff:
-                firstLine = ff.readline().strip().replace("# ", "")
-                line = "- [%s](%s/%s)\n" % (firstLine, folder, f)
-                readme += line
+                with open(path) as ff:
+
+                    print(path)
+                    r = ff.readline()
+                    print(r)
+                    firstLine = r.strip().replace("# ", "")
+                    line = "- [%s](%s/%s)\n" % (firstLine, folder, f)
+                    readme += line
 
 with open("README.md", "w") as r:
     r.write(readme)
