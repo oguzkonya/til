@@ -4,8 +4,8 @@ A personal knowledge base. Not necessarily today, but these are the things I lea
 
 ### Android
 
-- [Get Unique Device ID](android/get-unique-device-id.md)
 - [Install a specific version of Gradle](android/install-specific-version-gradle.md)
+- [Get Unique Device ID](android/get-unique-device-id.md)
 
 ### C#
 
@@ -18,5 +18,9 @@ A personal knowledge base. Not necessarily today, but these are the things I lea
 
 ### Maths
 
-- [Finding the Intersection of Two Polygons](maths/finding-the-intersection-of-two-polygons.md)
 - [Rotating Vectors Using Quaternions](maths/rotating-vectors-using-quaternions.md)
+- [Finding the Intersection of Two Polygons](maths/finding-the-intersection-of-two-polygons.md)
+
+### Netflix
+
+- [Netflix Browse by Genre](netflix/netflix-browse-by-genre.md)
