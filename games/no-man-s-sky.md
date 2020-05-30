@@ -9,5 +9,5 @@
     3. Repeat steps 1 and 2, to produce 10 `Di-Hydrogen` per cycle.
 - `Tritium` can be found easily in asteroids in space. With `Tritium` and `Di-hydrogen` you can refine `Frigate Fuel` which is not only needed for space exploration, but also quite expensive and a good source of income.
 - `Gold Nuggets'` sell value is 3280 units but when analyzed it yields an average of 61.5 `Gold`. One `Gold` is worth 353 units, so the `Gold` that is obtained from analyzing a `Gold Nugget` has a higher sell value.
-- The same can't be said for `Tritium Hypercluster`. It's sell value is 3280 units while it yields an average of 107 `Tritium` when analyzed (one `Tritium` is worth 6 units).
-- If sentinels are chasing you, going into space wouldn't make them back off. Sentinel starships would spawn in waves, and they would drop highly valuable material when killed.
+- The same can't be said for `Tritium Hypercluster`. It's sell value is 3280 units while it yields an average of 107 `Tritium` when analyzed (one `Tritium` is worth 6 units).
+- If sentinels are chasing you, going into space wouldn't make them back off. Sentinel starships would spawn in waves, and they would drop highly valuable material when killed.
