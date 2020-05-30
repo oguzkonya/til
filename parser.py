@@ -7,6 +7,7 @@ categories = {
     "android": "Android",
     "csharp": "C#",
     "git": "Git",
+    "games": "Games",
     "maths": "Maths",
     "netflix": "Netflix"
 }

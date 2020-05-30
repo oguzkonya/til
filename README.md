@@ -11,6 +11,10 @@ A personal knowledge base. Not necessarily today, but these are the things I lea
 
 - [Calculate SHA256](csharp/calculate-sha256.md)
 
+### Games
+
+- [No Man's Sky](games/no-man-s-sky.md)
+
 ### Git
 
 - [Create a Changelog From Git Commits](git/create-changelog-from-git-commits.md)
