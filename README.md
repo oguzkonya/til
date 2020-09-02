@@ -17,6 +17,7 @@ A personal knowledge base. Not necessarily today, but these are the things I lea
 
 ### Git
 
+- [Generate and Apply Patches](git/generate-and-apply-patches.md)
 - [Create a Changelog From Git Commits](git/create-changelog-from-git-commits.md)
 - [Git Log Pretty Format](git/git-log-pretty-format.md)
 - [Checkout a Single File From a Specific Commit](git/checkout-a-single-file-from-a-specific-commit.md)
