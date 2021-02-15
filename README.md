@@ -14,6 +14,7 @@ A personal knowledge base. Not necessarily today, but these are the things I lea
 ### Games
 
 - [No Man's Sky](games/no-man-s-sky.md)
+- [Valheim](games/valheim.md)
 
 ### Git
 
