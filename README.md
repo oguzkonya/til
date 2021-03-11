@@ -18,6 +18,7 @@ A personal knowledge base. Not necessarily today, but these are the things I lea
 
 ### Git
 
+- [Move Subdirectory into Separate Git Repository](git/move-subdirectory-into-separate-git-repository.md)
 - [Generate and Apply Patches](git/generate-and-apply-patches.md)
 - [Create a Changelog From Git Commits](git/create-changelog-from-git-commits.md)
 - [Git Log Pretty Format](git/git-log-pretty-format.md)
