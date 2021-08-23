@@ -20,6 +20,7 @@ A personal knowledge base. Not necessarily today, but these are the things I lea
 
 - [Move Subdirectory into Separate Git Repository](git/move-subdirectory-into-separate-git-repository.md)
 - [Generate and Apply Patches](git/generate-and-apply-patches.md)
+- [Get a List of Added/Modified Files in a Commit](git/get-a-list-of-added-modified-files-in-a-commit.md)
 - [Configure Git to Ignore Local Files](git/configure-git-to-ignore-local-files.md)
 - [Create a Changelog From Git Commits](git/create-changelog-from-git-commits.md)
 - [Git Log Pretty Format](git/git-log-pretty-format.md)
